@@ -1,4 +1,4 @@
-## 🙆🏻‍♀️ About Me
+# 🙆🏻‍♀️ About Me
  
 Hi! I'm **Siti Athirah binti Abd Malik**, a student from Computer Science faculty in **Graphic and Multimedia Software** course. I'm passionate to build a better world using technologies. Look at my projects!  
 
