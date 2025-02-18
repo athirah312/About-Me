@@ -39,9 +39,3 @@ Physical Science
 📌 **Programming Technique I**
 📌 **Digital Logic**
 
----
-
-# 📝 Reflection
-
-This course enhances critical thinking, technical skills and problem-solving. It also encourages adaptability, as technology id continually evolves. The assignments, industry talk and industry visit made this course more interesting by providing real-world applications of IT concepts.
-
